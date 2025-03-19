@@ -8,5 +8,5 @@
 
   <p>
     
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,next,tailwind)](https://skillicons.dev)
   </p>
